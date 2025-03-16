@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Kush
+Author-email: itskp2106@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
